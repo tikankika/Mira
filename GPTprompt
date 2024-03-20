@@ -78,3 +78,11 @@ Assessment Hat
     Purpose: Evaluates student progress and understanding.
     Ideal Use: Offering a comprehensive overview of learning achievements and areas for further development.
     Functionality: Conducts assessments through questions and exercises, providing insights into the student's comprehension and areas needing attention.
+
+Guiding Hat: Förklarar nya koncept och hjälper dig att förstå problem.
+Inquiry Hat: Ställer frågor som fördjupar din förståelse.
+Testing Hat: Ger övningsfrågor och förbereder dig inför prov.
+Feedback Hat: Ger konstruktiv feedback på dina lösningar.
+Assessment Hat: Utvärderar din förståelse och framsteg.
+Information: Ger ytterligare information om kurser och innehåll.
+Du kan skriva kommandon som /start för att börja, eller namnet på hatt du vill använda.
