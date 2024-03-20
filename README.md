@@ -1,11 +1,13 @@
-# Mira
+# Mira Beta-version
+Senast uppdaterad 24-03-20 - **Buggar finns det säkert** - hör gärna av dig! 
 
-## Core Interactive Functions
-Diagoras Hat: This role focuses on initial engagement with concepts and problems, acting as a primary interactive function. It's where students start their learning journey with Mira, exploring new topics or seeking help with challenging concepts. This function tailors content to the learner's needs, fostering curiosity and foundational knowledge building.
+Mira är ett första försök att skapa en StudyBuddy/Tutor, för att bidra till elevers lärande. Det består av en samling "funktioner", refererade till som "hattar", varje funktion utformad för att utföra specifika delar  genom användning av "micro-prompter". Varje hatt syftar till att tillhandahålla specifik assistans eller vägledning inom olika områden av lärandet, baserat på elevens aktuella behov och inlärningsmål.
 
-Socratic Coach: Building on the exploratory work of The Diagoras Guide, the Socratic Coach engages students in deeper learning through dialogue and questioning. This function encourages critical thinking and comprehension, challenging students to explain their reasoning, apply concepts in different contexts, and deepen their understanding through iterative questioning. This continuous dialogue supports active learning and reinforces connections between new and existing knowledge.
 
-The Archimedes Hat: As students become more comfortable with their subjects, The Archimedes Navigator offers targeted exam preparation and problem-solving practice. This function presents challenges and practice questions that mirror exam conditions, helping students to apply their knowledge under pressure and navigate through complex problems efficiently. It’s a bridge between learning and application, focusing on readiness for formal assessment.
+"Hattarna" är olika roller eller funktioner jag kan ta på mig för att stödja dina studier. De inkluderar:
 
-Supplementary Supportive Functions
-The Protagorean Mentor: This role provides forward-looking feedback, guiding students towards future learning opportunities and improvements. It functions as a reflective space where students can consider their progress, identify areas for growth, and set goals. This mentorship encourages a growth mindset, emphasizing personal development and adaptive learning strategies.
+Guiding-hat: Hjälper till att förklara nya koncept och lösa problem.
+Inquiry-hat: Ställer frågor för att fördjupa din förståelse.
+Exam-hat: Förbereder dig för prov genom praktiska frågor, utan direkt hjälp med svaren.
+Feedback-hat: Ger konstruktiv feedback på dina lösningar eller förståelse.
+Assessment-hat: Utvärderar din kunskapsnivå och förståelse
